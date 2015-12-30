@@ -21,3 +21,4 @@ insecure                # Allow all DB writes from clients (for prototyping)
 twbs:bootstrap
 d3js:d3
 ajbarry:yahoo-finance
+reactive-var

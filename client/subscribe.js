@@ -1,1 +1,1 @@
-//Meteor.subscribe("Stocks");
+Meteor.subscribe("Stocks");

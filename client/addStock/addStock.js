@@ -12,9 +12,11 @@
             symbol: stockEntry
           });
         }
-
-        //$('[name=stockEntry]').val().clear;
+        location.reload();
+      //  $('[name=stockEntry]').val().clear();
     });
+
+  
 
   }
   });

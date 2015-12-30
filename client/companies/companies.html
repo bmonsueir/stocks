@@ -2,9 +2,9 @@
 
 
 {{#each name}}
-    <div class = 'col-xs-3'>
-      <div class = 'row'>
-        <button class = 'btn btn-danger company'>{{this.name}} x</button>
+    <div class = 'col-xs-2'>
+      <div class = 'row-fluid'>
+        <button  class = "company{{@index}}">{{this.name}}</button>
       </div>
     </div>
 {{/each}}
