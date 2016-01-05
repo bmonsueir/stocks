@@ -22,3 +22,4 @@ twbs:bootstrap
 d3js:d3
 ajbarry:yahoo-finance
 reactive-var
+reactive-dict
